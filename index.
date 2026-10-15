@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Nguyễn Phú Lương - Portfolio</title>
+    
+    <!-- ĐOẠN SCHEMA MARKUP CẦN THÊM VÀO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nguyễn Phú Lương",
+      "alternateName": "pluong06",
+      "birthDate": "2006-07-07",
+      "jobTitle": "Software Developer",
+      "email": "luongshinichi@gmail.com",
+      "url": "https://github.com/pluong06",
+      "sameAs": [
+        "https://github.com/Pluong06"
+      ]
+    }
+    </script>
+    
+</head>
+<body>
+    <!-- Nội dung trang web của bé ở đây -->
+</body>
+</html>
